@@ -1,0 +1,23 @@
+b {
+    color: blueviolet;
+}
+img {
+    width: 500px;
+    height: 300px;
+}
+p {
+    font-size: 1.4rem;
+}
+button {
+    background-color: blueviolet;
+    color: aliceblue;
+    font-size: 1.4rem;
+}
+.cart{
+    background-color: aquamarine;
+    width: 600px;
+    height: 600px;
+}
+.tom {
+    margin :20px;
+}
