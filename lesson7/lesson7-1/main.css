@@ -1,0 +1,23 @@
+#student{
+    font-size: 50px;
+}
+#pencial{
+    font-size: 20px;
+}
+#teacher::selection{
+    background-color: red;
+    color: blueviolet;
+}
+#teacher{
+    font-size: 20px;
+
+}
+.book::before{
+    content: '☀️'
+}
+.book::after{
+    content:'☁️' ;
+}
+li::marker{
+    content: '☀️'
+}
