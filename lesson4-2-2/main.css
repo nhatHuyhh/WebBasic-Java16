@@ -1,0 +1,30 @@
+.box{
+    font-size: 40px;
+    
+}
+li{
+ list-style-type: none;
+}
+#book{
+    background-color: aqua;
+    width:20%;
+    text-align: center;
+    border-bottom: 2px solid rgb(0, 17, 255);
+}
+#read{
+    background-color: aqua;
+    width:20%;
+    text-align: center;
+    border-bottom: 2px solid rgb(0, 17, 255);
+}
+#pencals{
+    background-color: aqua;
+    width:20%;
+    text-align: center;
+    border-bottom: 2px solid rgb(0, 17, 255);
+}
+#ruler{
+    background-color: aqua;
+    width:20%;
+    text-align: center;
+}

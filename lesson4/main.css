@@ -1,0 +1,25 @@
+hmtl,body{
+    margin: 100px;
+}
+
+.footer{
+    font-size: 100px;
+}
+.main-footer{
+    border: 1px solid green ;
+    padding-left: 64px;
+    padding-right: 64px;
+   
+}
+.book-footer{
+    border: 1px solid red;
+    padding: 36px 24px;
+    margin-left:36px;
+}
+
+#pencials{
+    border: 1px solid blue;
+    font-size: 100px;
+    padding-left: 24px;
+    width: 480px    ;
+}

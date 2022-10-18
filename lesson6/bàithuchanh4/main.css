@@ -1,0 +1,22 @@
+.radio{
+    display: flex;
+}
+.student{
+    width: 100px;
+    height: 100px;
+    background-color: red; 
+    margin-top: 200px;
+    margin-left: 400px;}
+.teacher{
+    width: 100px;
+    height: 100px;
+    background-color:yellow ;
+    margin-top: 200px;
+}
+.center-one{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-left:400px;
+
+}

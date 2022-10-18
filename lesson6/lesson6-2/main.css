@@ -1,0 +1,55 @@
+
+
+.circle{
+    font-size:20px;
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    background: red;
+    
+}
+.circle:hover{
+    color: red;
+    background-color: aqua;
+    transition-property:width;
+    transition-duration: 5s;
+    
+}
+.student{
+    font-size:20px;
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+    background-color: aquamarine;
+}
+.student:hover{
+    font-size: 40px;
+    width: 200px;
+    height: 200px;
+    background-color:yellow;
+
+}
+.teacher{
+    font-size:20px;
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+    background-color:rgb(68, 0, 66);
+    
+}
+.teacher:hover{
+    transform: rotate(1turn);
+    transition:1s;
+}
+.pencials{
+    font-size:20px;
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+    background-color: burlywood;
+}
+.pencials:hover{
+    transform: translate(0,-50px);
+    box-shadow: 0px 8px 16px;
+    
+}

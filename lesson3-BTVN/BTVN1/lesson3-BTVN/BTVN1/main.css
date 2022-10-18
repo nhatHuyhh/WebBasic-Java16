@@ -1,0 +1,12 @@
+.box{
+    width: 900px ;
+    height: 600px;
+    background-image: url(./THUMBNAIL_\(5\).jpg);
+    margin: auto;
+}
+p{
+    color: black ;
+    font-size: 50px;
+    text-align: center;
+    background-color: rgba(224,255,255, 0.2)
+}

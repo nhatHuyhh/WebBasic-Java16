@@ -1,0 +1,13 @@
+.box {
+    width: 640px;
+    height: 359px;
+    background-image:url('./photo-1-1555470636752515244481.jpg');
+    margin: auto;
+}
+p{
+    color: aliceblue;
+    text-align: center;
+    font-size: 1.9rem;
+    background-color: rgba(0, 0 , 0,0.5);
+    line-height: 60px;
+}

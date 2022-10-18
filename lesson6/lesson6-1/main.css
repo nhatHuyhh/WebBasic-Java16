@@ -6,7 +6,7 @@
 }
 .container{
     height: 250px;
-    background-color: blueviolet;
+    background-color: ;
 }
 .circle{
     width: 50px;
@@ -32,7 +32,7 @@
     background-color: #ff0080;
     border-radius: 50%;
     position: absolute;
-    left: 230px;
-    top: 230px;
+    left: 225px;
+    top: 225px;
 
 }
